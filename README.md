@@ -13,7 +13,7 @@ _____________________________installer projet a github le premier fois
 _____________________________importer projet from github
 
  1-git clone https://github.com/ayoublemuilhi/mcinet.git
- 2- composer install (inside dossier pour installer les composer)
+ 2- composer install (inside projet pour installer les composer)
 
 ____________________________update projet from github
 1 - git pull origin master
